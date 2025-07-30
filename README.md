@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👩‍💻 Shivani Teli  
+# 👩‍💻 I'm Shivani Teli  
 
 **Lead Software Engineer | Data Scientist | GenAI & Android Expert**  
 
