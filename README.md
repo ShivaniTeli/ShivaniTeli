@@ -10,8 +10,8 @@ Experienced in **Machine Learning, Generative AI (GenAI), NLP, Big Data, and And
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ShivaniTeli)  
+[![LinkedIn](https://www.linkedin.com/in/shivani-teli-600413136?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuJXXj7XUSPaPNzsG6Njtag%3D%3D)  
+[![GitHub](https://github.com/ShivaniTeli)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaniteli57@gmail.com)  
 
 ---
