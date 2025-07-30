@@ -47,13 +47,11 @@ Experienced in **Machine Learning, Generative AI (GenAI), NLP, Big Data, and And
 
 ## 💼 Experience  
 
-- **Data Science Intern – Learnbay (2025–Present)**  
+- **Lead Software Engineer – Persistent Systems (2024–Present)**  
   - Built dashboards in **Tableau & Power BI** for actionable insights.  
   - Developed **custom LLMs with OpenAI API** for NLP tasks.  
   - Implemented **RAG, LangChain, LangGraph** for healthcare & finance projects.  
   - Created **predictive models** for anomaly detection & trend forecasting.  
-
-- **Lead Software Engineer – Persistent Systems (2024–2025)**  
   - Engineered **enterprise-grade Android framework applications** with audio optimizations.  
   - Improved communication systems with **noise suppression & codec enhancements**.  
 
